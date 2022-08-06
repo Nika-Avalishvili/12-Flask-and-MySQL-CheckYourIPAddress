@@ -9,3 +9,7 @@ Subject: Flask and MySQL, Check your IP address
 4. Users will be redirected "/myip" page, where they see their own IP address.
 5. It is possible to check logs history (in "/viewlog" page), which contains all the data information recorded in the MySQL database.
 6. The task is realized through the Flask framework and MySQL.
+
+
+Deployed version - https://nikaa131.pythonanywhere.com/
+Accessible till the end of October (under free trial)
